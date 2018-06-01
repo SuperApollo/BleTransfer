@@ -1,8 +1,19 @@
+# renren define ignores
+.DS_Store
+products/
+.classpath
+Thumbs.db
+local.properties
+.idea
 *.iml
+/ideas/
+# android studio ignores
+captures/
 .gradle
 /local.properties
-.idea
-gradle
+/.idea/workspace.xml
+/.idea/libraries
 .DS_Store
-build
+**/build
 /captures
+*.swp
